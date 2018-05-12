@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25267
     wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23198#With-No-Strings-Attached
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-26'
 gutenberg_type: Text
